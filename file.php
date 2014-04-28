@@ -6,5 +6,6 @@ function Saluti($nome){
 }
 
  echo Saluti("Poldo");
-//ciao
+
+//ciao nginx
 ?>
