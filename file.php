@@ -6,5 +6,5 @@ function Saluti($nome){
 }
 
  echo Saluti("Poldo");
-
+//ciao
 ?>
