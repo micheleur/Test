@@ -6,6 +6,10 @@ function Saluti($nome){
 }
 
  echo Saluti("Poldo");
+<<<<<<< HEAD
 
 //ciao nginx modifico...qui
+=======
+//ciao
+>>>>>>> parent of 09cacd2... salvo modifiche al file.php
 ?>
